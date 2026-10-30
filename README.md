@@ -4,6 +4,7 @@ Sobre o projeto
 
 O objetivo foi transformar os dados disponíveis em uma apresentação visual clara e objetiva, aplicando boas práticas de construção de Dashboards e visualização de dados.
 O projeto conta com:
+
   -Tabela dinâmica para organização e análise dos dados;
   
   -Gráficos para apresentação dos principais resultados;
